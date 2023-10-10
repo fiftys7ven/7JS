@@ -6,4 +6,4 @@
 <h1 style="text-align: center;">Pull Requests</h1>
 <p>You Can Always Send Pull Requests. I Will Patch Them 😊.</p>
 <h1 style="text-align: center;">Deployments</h1>
-<p>Sometimes Our Website [https://7.js.org/](https://7.js.org/) Can Be Down. That Means Github Pages, Github Or js.org Is Down. You Can Always Use Our Vercel Deployment: [https://7js.vercel.app/](https://7js.vercel.app/)</p>
+Sometimes Our Website [https://7.js.org/](https://7.js.org/) Can Be Down. That Means Github Pages, Github Or js.org Is Down. You Can Always Use Our Vercel Deployment: [https://7js.vercel.app/](https://7js.vercel.app/)
